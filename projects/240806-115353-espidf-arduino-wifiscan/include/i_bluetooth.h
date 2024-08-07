@@ -1,0 +1,3 @@
+void initBluetooth();
+
+void loopBluetooth();
